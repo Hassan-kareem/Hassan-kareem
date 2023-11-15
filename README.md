@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hassan-kareem
+- 👋 Hi, I’m Hassan-kareem
 
 <!---
 Hassan-kareem/Hassan-kareem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
